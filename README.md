@@ -51,6 +51,8 @@ A powerful interactive tool for creating, visualizing, and analyzing tracking ro
 - **Interactive clustering**: Apply clustering to 2D results with adjustable parameters
 - **Route highlighting**: Color-code original routes based on cluster assignments
 
+<img width="1000" alt="{FA6AE291-1832-46F3-8B66-AA56F1CAB122}" src="https://github.com/user-attachments/assets/50df0242-c3af-491d-9674-b6d2a3406574" />
+
 ## Installation
 
 ### Requirements
@@ -204,6 +206,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Uses scikit-learn for machine learning algorithms
 - UMAP implementation for advanced dimensionality reduction
 - Matplotlib for high-quality visualizations
+
 
 
 
