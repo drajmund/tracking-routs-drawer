@@ -29,7 +29,7 @@ A powerful interactive tool for creating, visualizing, and analyzing tracking ro
 - **MDS**: Multidimensional Scaling
 - **Isomap**: Isometric Mapping
 
-<img width="628" height="790" alt="{AAB73FAA-11A9-4BD3-9D3B-73C3B73A43B7}" src="https://github.com/user-attachments/assets/ce0edc86-6d85-4b08-b193-36efe794574e" />
+<img width="350" alt="{AAB73FAA-11A9-4BD3-9D3B-73C3B73A43B7}" src="https://github.com/user-attachments/assets/ce0edc86-6d85-4b08-b193-36efe794574e" />
 
 #### Extended Feature Analysis
 - **Base features** (5): start_x, start_y, end_x, end_y, route_length
@@ -202,4 +202,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Uses scikit-learn for machine learning algorithms
 - UMAP implementation for advanced dimensionality reduction
 - Matplotlib for high-quality visualizations
+
 
