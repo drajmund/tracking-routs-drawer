@@ -20,6 +20,8 @@ A powerful interactive tool for creating, visualizing, and analyzing tracking ro
 - **Route statistics**: Displays total distance and point counts
 - **Live updates**: Automatically refreshes as you modify routes
 
+<img width="1000" alt="{347FD732-4044-4686-808A-26921F36AFF5}" src="https://github.com/user-attachments/assets/a6b7f415-dfd2-4038-914e-fe6baec0bf18" />
+
 ### 🔬 Advanced Analytics
 
 #### Dimensionality Reduction Algorithms
@@ -202,5 +204,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Uses scikit-learn for machine learning algorithms
 - UMAP implementation for advanced dimensionality reduction
 - Matplotlib for high-quality visualizations
+
 
 
