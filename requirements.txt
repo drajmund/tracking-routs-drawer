@@ -1,0 +1,15 @@
+# Core scientific computing
+numpy>=1.19.0
+
+# Machine learning and data processing
+scikit-learn>=1.0.0
+
+# Dimensionality reduction
+umap-learn>=0.5.0
+
+# Visualization
+matplotlib>=3.3.0
+
+# Note: tkinter is included with Python standard library
+# If tkinter is not available, install python3-tk on Linux/Ubuntu:
+# sudo apt-get install python3-tk 
